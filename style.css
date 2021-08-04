@@ -1,0 +1,18 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+}
+#blue{
+    background:"https://cdn.pixabay.com/photo/2018/08/31/08/35/toys-3644073_960_720.png";
+}
